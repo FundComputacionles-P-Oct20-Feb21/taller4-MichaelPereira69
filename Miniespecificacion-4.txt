@@ -1,0 +1,32 @@
+1. Inicio 
+2.Se calcula el valos de CPU
+3.Se calcula el valos de teclado
+4.Se calcula el valos de pantalla
+5.Se calcula el valos de raton
+6.Se calcula el valor de los 4 poductos 
+7.Se muestra en pantalla el valor a pagar
+8.Fin
+
+
+----- Miniespesificaciones
+1.Inicio
+//declaro las variables
+2.precioCpu, d[0,n]
+3.precioTeclado, d[0,n]
+4.precioPantalla, d[0,n]
+5.precioRaton, d[0,n]
+6.precioTotal, d[0,n]
+//pido los datos por teclado - entrada
+7.Escribir "Ingrese el valor del CPU"
+8.Leer valorCpu
+9.Escribir "Ingrese el valor del teclado"
+10.Leer valorTeclado
+Escribir "Ingrese el valor del pantalla"
+11.Leer valorPantalla
+Escribir "Ingrese el valor del raton"
+12.Leer valorRaton
+//proceso
+13.valorTotal <-- valorCpu + valorTeclado + valorPantalla + valorRaton
+//salida
+14. Escribir "El valor total de la computadora es: " +valorTotal
+15.Fin

@@ -1,0 +1,23 @@
+1.Inicio 
+2.Se pide la base
+3.Se pide la altura
+4.Se calcula el area de el triangulo multiplicando la baseingresada por la altura ingresada y de divide para dos
+5.se presenta en pantalla el resultado del area del triangulo 
+6.fin
+
+
+
+---Miniespecificaciones
+1.Inicio
+//declaro las bariables 
+2.base, d[0,n]
+3.altura, d[0,n]
+4.area, d[0,n]
+//Pido datos por teclado - etradas
+Escribir"Ingrese la base"
+leer base
+Escribir "ingresar la altuta"
+leer
+AreaTriangulo <-- base * altura/2
+Escribir "El area del trianguloes:" + areaTriangulo
+11. fin

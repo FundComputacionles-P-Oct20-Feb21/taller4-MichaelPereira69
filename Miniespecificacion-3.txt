@@ -1,0 +1,22 @@
+  
+1. inicio
+2. se pide el valor de 1 minuto
+3. Se pide el munero de minutos consumidos al mes
+4. Se multiplica el valor de 1 minuto por el minuto ingresado
+5. se presenta el resultado de la multiplicacion
+6. fin
+
+
+1.Inicio
+------------Miniespesificaciones
+// declaro la variable
+2. valorminuto, d[0, n]
+3.minutosconsumidos, d[0, n]
+4.consumototal, d[0, n]
+//Pido datos por teclado -entradas
+5.<< "Ingrese costo de minutos consumidos"
+6.>>valor
+7.<< "ingrese los minutos consumidos"
+8.>> numero
+
+9.
